@@ -97,4 +97,3 @@ Contributions are welcome to enhance this project! Please follow these steps:
 - Inspired by the need for a customizable scientific calculator.
 - Built with Java Swing and GridBagLayout for a responsive UI.
 - Thanks to the Java community for robust libraries and documentation.
-```
